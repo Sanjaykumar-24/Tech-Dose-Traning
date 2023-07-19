@@ -9,6 +9,6 @@ class Solution {
             if(map.get(entry.get(i).getKey())>len)
             return entry.get(i).getKey();
         }
-        return 0;
+        return 5;
     }
 }
